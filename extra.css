@@ -28,6 +28,7 @@
 }
 .journey .au-card {
   cursor: pointer;
+  padding-top: 12px;
 }
 .journey .i-wrapper > .button {
   font-size: 24px;
